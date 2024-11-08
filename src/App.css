@@ -1,4 +1,7 @@
-.Parent{
+*{
+    margin: 0;
+    padding: 0;
+}.Parent{
     /* background-color: bisque; */
     height: 100vh;
 }
